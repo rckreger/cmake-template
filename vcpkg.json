@@ -1,0 +1,9 @@
+{
+   "name": "robcmaketest",
+   "version-string": "0.1.0",
+   "dependencies": [
+      "ace",
+      "boost",
+      "log4cplus"
+   ]
+}
